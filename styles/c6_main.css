@@ -103,36 +103,23 @@ article h3 {
 	width: 215px;
 	float: right;
 	padding: 0 0 20px 20px;
+}*/
+
+aside {
+    order: 1; /* Reorder to appear first */
+    width: 20%; /* Adjust the width as needed */
+    text-align: left;
 }
+
 aside h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
 aside img {
 	padding-bottom: 1em;
-}  */
+}  
 
 /* the styles for the footer */
-.aside-container {
-  display: flex;
-  flex-direction: column; /* Stack items vertically */
-  align-items: flex-start; /* Align items to the start (left) of the container */
-}
-
-/* Style for the h1 (Guest speakers) */
-.aside-container h1 {
-  margin: 0; /* Remove default margin to avoid extra spacing */
-}
-
-/* Optional styling for other elements within the aside, such as h3 and images */
-.aside-container h3 {
-  margin: 0; /* Remove default margin to avoid extra spacing */
-}
-
-.aside-container img {
-  max-width: 100px; /* Set a maximum width for the images */
-  height: auto;
-}
 
 footer {
 	background-color: #931420;
