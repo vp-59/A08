@@ -99,16 +99,10 @@ article h3 {
 }
 
 /* the styles for the aside */
-/*aside {
+aside {
 	width: 215px;
 	float: right;
 	padding: 0 0 20px 20px;
-}*/
-
-aside {
-    order: 1; /* Reorder to appear first */
-    width: 20%; /* Adjust the width as needed */
-    text-align: left;
 }
 
 aside h3 {
