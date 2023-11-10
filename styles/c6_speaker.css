@@ -48,7 +48,7 @@ header img {
 /* the styles for the section */
 section {
 	width: 525px;
-	float: right;
+	float: left;
 	padding: 0 20px 20px 20px;
 }
 section h1 {
@@ -89,7 +89,7 @@ article h3 {
 	padding-bottom: .25em;
 }
 article img {
-	float: right;
+	float: left;
 	margin: .5em 0 1em 1em;
 	border: 1px solid black;
 }
@@ -97,7 +97,7 @@ article img {
 /* the styles for the aside */
 aside {
 	width: 215px;
-	float: left;
+	float: right;
 	padding: 0 0 20px 20px;
 }
 aside h2 {
