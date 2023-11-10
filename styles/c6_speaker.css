@@ -100,7 +100,8 @@ aside {
 	float: right;
 	padding: 0 0 20px 20px;
 }
-aside h2 {
+
+aside h1 {
 	color: #800000;
 	font-size: 130%;
 	padding: .5em 0 .25em 0;
