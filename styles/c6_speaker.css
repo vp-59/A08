@@ -48,7 +48,7 @@ header img {
 /* the styles for the section */
 section {
 	width: 525px;
-	float: left;
+	float: right;
 	padding: 0 20px 20px 20px;
 }
 section h1 {
@@ -82,7 +82,7 @@ article {
 	border-bottom: 2px solid #800000;
 }
 article h2 {
-	padding-top: 0;
+	padding-top: .5em;
 }
 article h3 {
 	font-size: 105%;
@@ -100,6 +100,8 @@ aside {
 	float: right;
 	padding: 0 0 20px 20px;
 }
+aside h1 {
+	color: #800000;
 
 aside h2 {
 	color: #800000;
