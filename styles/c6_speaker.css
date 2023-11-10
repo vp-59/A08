@@ -48,7 +48,7 @@ header img {
 /* the styles for the section */
 section {
 	width: 525px;
-	float: center;
+	float: left;
 	padding: 0 20px 20px 20px;
 }
 section h1 {
